@@ -1,0 +1,5 @@
+#name, due_date, creation_date, daily, description, counter(how_many_times)
+#____, MMDDYYYY, MMDDYYYY, 1/0,
+早睡早起, today, today, 1, fall dead asleep before everyone in the house, 0 
+小型家务, today, today, 0, ranges from laundry to cat litter, 0
+强身健体, today, today, 0, blubluhbluh, 0
