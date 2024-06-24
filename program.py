@@ -29,10 +29,9 @@ def newTask():
 
 # Work on Log
 
-"""
-References
-time: https://www.programiz.com/python-programming/time
-GUI: https://www.pythonguis.com/faq/which-python-gui-library/
-file io: https://www.programiz.com/python-programming/file-operation
-pyinstaller: https://pyinstaller.org/en/stable/
-"""
+
+# References
+# time: https://www.programiz.com/python-programming/time
+# GUI: https://www.pythonguis.com/faq/which-python-gui-library/
+# file io: https://www.programiz.com/python-programming/file-operation
+# pyinstaller: https://pyinstaller.org/en/stable/
